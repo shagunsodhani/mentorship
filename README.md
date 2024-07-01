@@ -1,4 +1,5 @@
 I have been associated with the following teaching and mentoring initiatives: 
+
 |                                                          Role                                                           |                                                  Description                                                  |  Year   |
 | :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------: |
 |                            Mentor                       | [Mila Mentorship Program](https://mila.quebec/en/)                  |   2020-*   |
