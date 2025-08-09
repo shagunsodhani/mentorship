@@ -2,10 +2,13 @@ I have been associated with the following teaching and mentoring initiatives:
 
 |                                                          Role                                                           |                                                  Description                                                  |  Year   |
 | :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------: |
-|                            Mentor                       | [Mila Mentorship Program](https://mila.quebec/en/)                  |   2020-*   |
-|                            Office  Hours                       | [Facebook AI's Co-teaching Program](https://ai.meta.com/blog/facebook-ai-co-teaching-program-to-increase-pathways-ai-for-diverse-candidates/)                 |   2021-*   |
-|                            Mentor                       | [Alumni Mentorship Program](https://www.iitramp.org/)                  |   2021-*   |
+|                            Mentor                       | [Google for Startups](https://startup.google.com/)                  |   2025-*   |
+|                            Mentor                       | [NextAI](https://www.nextcanada.com/next-ai) |   2024-*   |
 |                            Mentor                       | [LatinX in AI Mentorship Program](https://www.latinxinai.org/mentorship-program)                  |   2021-*   |
+|                            Mentor                       | [Foundation For Excellence](https://ffe.org/mentorship-program/)                  |   2025  |
+|                            Office  Hours                       | [Facebook AI's Co-teaching Program](https://ai.meta.com/blog/facebook-ai-co-teaching-program-to-increase-pathways-ai-for-diverse-candidates/)                 |   2021-25   |
+|                            Mentor                       | [Mila Mentorship Program](https://mila.quebec/en/)                  |   2020-22   |
+|                            Mentor                       | [Alumni Mentorship Program](https://www.iitramp.org/)                  |   2021   |
 |                            Office Hours                       | [NeurIPS IGLU Competition](https://www.iglu-contest.net/)                  |   2021   |
 |                            Office Hours                      | [Facebook Startup Program](https://developers.facebook.com/startups/)                  |   2020   |
 |                            Mentor                       | [ProjectX](https://www.projectx2020.com/)                  |   2020   |
