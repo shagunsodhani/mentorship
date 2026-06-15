@@ -4,7 +4,7 @@ I have been associated with the following teaching and mentoring initiatives:
 | :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------: |
 |                            Office  Hours                | [AI Office Hours](https://shagun.bearblog.dev/ai-office-hours/)                  |   2025-*   |
 |                            Mentor                       | [Google for Startups](https://startup.google.com/)                  |   2025-*   |
-|                            Mentor                       | [NextAI](https://www.nextcanada.com/next-ai) |   2024-2025   |
+|                            Mentor                       | [NextAI](https://www.nextcanada.com/next-ai) |   2024-25   |
 |                            Mentor                       | [LatinX in AI Mentorship Program](https://www.latinxinai.org/mentorship-program)                  |   2021-*   |
 |                            Mentor                       | [Foundation For Excellence](https://ffe.org/mentorship-program/)                  |   2025  |
 |                            Office  Hours                       | [Facebook AI's Co-teaching Program](https://ai.meta.com/blog/facebook-ai-co-teaching-program-to-increase-pathways-ai-for-diverse-candidates/)                 |   2021-25   |
